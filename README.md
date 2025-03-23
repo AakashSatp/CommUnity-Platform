@@ -11,12 +11,7 @@
 - 📊 **Host Management Tools** – Captains can track participation and handle last-minute changes.
 - ⭐ **Rating & Rewards** – Hosts earn ratings based on participation and event success.
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (React.js recommended)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** Firebase / OAuth
-- **Hosting:** Vercel / AWS / Firebase Hosting
+
 
 ## 📂 Folder Structure
 ```
