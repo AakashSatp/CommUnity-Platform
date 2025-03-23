@@ -28,4 +28,4 @@ CommUnity is a **community engagement platform** designed to bring people togeth
 CommUnity aims to **foster real-world connections** by simplifying event organization and enhancing user interactions. Through structured event management and engagement tools, the platform creates a meaningful **community-building experience**. 🚀
 
 ## 🤝 Get Involved
-If you're interested in contributing, feel free to fork the repository or reach out via [LinkedIn](www.linkedin.com/in/aakashas) or email at your-email@example.com.
+If you're interested in contributing, feel free to fork the repository or reach out via [LinkedIn](www.linkedin.com/in/aakashas) or email at aakashsatpute57@gmail.com.
